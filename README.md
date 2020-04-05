@@ -1,4 +1,5 @@
-# flask-restful-sqlalchemy-boilerplate
+# Flask Restful SQLALchemy Boilerplate
+
 A ready to go script with example for Flask Restful API connecting to a MySQL Database using SQLAlchemy ORM
 
 
