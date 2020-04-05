@@ -4,8 +4,7 @@ from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy.exc import OperationalError, StatementError
 
-# DB_URL = "mysql://<username>:<password>@<host>:<port>/<schema>"
-DB_URL="mysql://cryptex:cryptex123$@localhost:3306/trading"
+DB_URL = "mysql://<username>:<password>@<host>:<port>/<schema>"
 
 Base = declarative_base()
 engine = create_engine(DB_URL, pool_recycle=3600, connect_args={'connect_timeout': 60})
