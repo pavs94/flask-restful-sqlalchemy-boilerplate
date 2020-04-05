@@ -46,20 +46,17 @@ You'll find the user guide and all documentation [here](https://flask-restful.re
 The Python SQL Toolkit and Object Relational Mapper
 
 ## Documentation
--------------
 
 Latest documentation is at:
 
 http://www.sqlalchemy.org/docs/
 
 ## Installation / Requirements
----------------------------
 
 Full documentation for installation is at: 
 
 Installation  [here](http://www.sqlalchemy.org/docs/intro.html#installation)
 
 ## Getting Help / Development / Bug reporting
-------------------------------------------
 
 Please refer to the SQLAlchemy Community Guide [here](http://www.sqlalchemy.org/support.html)
